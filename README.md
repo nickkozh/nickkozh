@@ -1,6 +1,6 @@
-# Nick Kozh
+# Nicholas K
 
-**ECE + CS @ Northeastern University**  
+**EECE + CS @ Northeastern University**  
 Building [MINDSET](https://mindsettech.ai) — a cross-subject generalized brain-computer interface platform.
 
 ---
@@ -23,9 +23,6 @@ for EEG classification — from electrode to inference.
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,linux,git,cmake" />
 </p>
-
-**Hardware:** ADS1299 EEG · ESP32 · Jetson Orin Nano · OpenXR  
-**Tools:** Saleae Logic 8 · Siglent SDS1104X-E · Bambu P1P
 
 ---
 
