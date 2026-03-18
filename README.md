@@ -1,20 +1,37 @@
-# Nicholas K
+# Nicholas K  
 
-**EECE + CS @ Northeastern University**  
-Building [MINDSET](https://mindsettech.ai) — a cross-subject generalized brain-computer interface platform.
+**ECE @ Northeastern University**  
+Building **MINDSET** — neural interfaces for spatial computing
 
 ---
 
-### What I'm working on
+### What I’m building
 
-**MINDSET** is a proprietary BCI research project targeting a licensable SDK for developers building  
-spatial computing, assistive tech, and neuro-adaptive applications on top of EEG data.
+I’m building **MINDSET**, a brain-computer interface platform focused on turning EEG into something actually usable — not just research demos.
 
-The stack spans hardware bring-up, embedded firmware, real-time signal processing, and ML pipelines  
-for EEG classification — from electrode to inference.
+The long-term goal is simple:  
+> **Thought → structured output → real systems (XR, software, hardware)**
 
-> Core repos are private during active development.  
-> SDK licensing inquiries → [mindsettech.ai](https://mindsettech.ai)
+Right now that means:
+- Custom EEG hardware + electrode systems (not off-the-shelf)
+- Real-time signal pipelines (raw signals → usable features)
+- ML systems for translating intent (motor imagery, code-like outputs)
+- Early experiments with **EEG → code / interaction**
+
+This is being built toward a **developer platform + company**, not just a project.
+
+> Most of the core work is private while I iterate  
+> If you’re serious about BCI / neurotech / XR → reach out
+
+---
+
+### What I actually do (end-to-end)
+
+- Hardware bring-up (ADS1299, custom acquisition systems)
+- Embedded systems (ESP32 / Jetson / Raspberry Pi)
+- Signal processing (filtering, feature extraction, real-time pipelines)
+- ML (PyTorch, training + inference for EEG classification)
+- System design (turning models into usable systems)
 
 ---
 
@@ -24,17 +41,26 @@ for EEG classification — from electrode to inference.
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,linux,git,cmake" />
 </p>
 
+**Hardware:** EEG (ADS1299) · ESP32 · Jetson Orin Nano  
+**Focus Areas:** BCI · ML Systems · Spatial Computing  
+
 ---
 
 ### Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-one-theta-26.vercel.app/api?username=nickkozh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=stars&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats-one-theta-26.vercel.app/api/top-langs/?username=nickkozh&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img src="github-metrics.svg" />
 </p>
 
 ---
 
 ### Links
 
-[mindsettech.ai](https://mindsettech.ai) · [Mindset Technologies](https://github.com/Mindset-Technologies)
+- 🌐 https://mindsettech.ai  
+- 🧠 https://github.com/Mindset-Technologies  
+
+---
+
+### Note
+
+If MINDSET doesn’t work out, I’m still ending up in neurotech / ML systems / hardware — just with way more real experience than most.
