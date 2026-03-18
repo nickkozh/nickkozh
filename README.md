@@ -29,8 +29,8 @@ for EEG classification — from electrode to inference.
 ### Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nickkozh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=stars&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickkozh&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats-one-theta-26.vercel.app/api?username=nickkozh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=stars&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats-one-theta-26.vercel.app/api/top-langs/?username=nickkozh&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
