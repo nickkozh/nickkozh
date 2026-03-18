@@ -1,22 +1,43 @@
-<head>
-<link rel="stylesheet" href="https://fonts.google.com/specimen/Fira+Code">
-</head>
+# Nick Kozh
 
-<body>
-<h1 align="center">Hey, I'm <a href="https://www.nicckko.com">Nick</a></h1>
-<p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechanical-Engineer;Hardware+Hacker;Electrical-Engineer;Software+Developer;Fullstack-Developer;Sim-Racer;&center=true&width=500&height=50"></a>
+**ECE + CS @ Northeastern University**  
+Building [MINDSET](https://mindsettech.ai) — a cross-subject generalized brain-computer interface platform.
+
+---
+
+### What I'm working on
+
+**MINDSET** is a proprietary BCI research project targeting a licensable SDK for developers building  
+spatial computing, assistive tech, and neuro-adaptive applications on top of EEG data.
+
+The stack spans hardware bring-up, embedded firmware, real-time signal processing, and ML pipelines  
+for EEG classification — from electrode to inference.
+
+> Core repos are private during active development.  
+> SDK licensing inquiries → [mindsettech.ai](https://mindsettech.ai)
+
+---
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,linux,git,cmake" />
 </p>
 
-<div align="center">
-  <h4 > I am a high school student who codes in Python, C++, Node.JS, and Javascript. </h4>
-  <h4> When I am not at school, I tutor kids in STEAM (Math, Coding, Chemistry, etc...). </h4>
-  <h4> Some of my hobbies include sim racing, game console restoration, and the Legend of Zelda. </h4>
-  <h4> If you're interested in working with me or maybe need a tutor, contact me through my website. </h4>
-  
-  ![Metric](/github-metrics.svg)
-  
-  <a href="http://www.github.com/nicckko"><img src="https://github-readme-stats.vercel.app/api?username=nicckko&show_icons=true&theme=tokyonight" alt="nicckko's GitHub stats" /></a>
-</div>
+**Hardware:** ADS1299 EEG · ESP32 · Jetson Orin Nano · OpenXR  
+**Tools:** Saleae Logic 8 · Siglent SDS1104X-E · Bambu P1P
 
-</body>
+---
+
+### Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nickkozh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=stars&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickkozh&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+</p>
+
+---
+
+### Links
+
+[mindsettech.ai](https://mindsettech.ai) · [Mindset Technologies](https://github.com/Mindset-Technologies)
