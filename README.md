@@ -1,4 +1,4 @@
-# Nicholas Kozhemiakin
+# Nicholas
 
 **ECE @ Northeastern University** · Seeking internships in Hardware Engineering, AI Engineering, ML for Hardware, and Computer Architecture
 
