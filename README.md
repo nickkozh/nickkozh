@@ -15,7 +15,7 @@ Currently the founder and lead engineer at **[Mindset Technologies](https://gith
 ### What I Work With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,linux,cmake,git,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,linux,cmake,git,arduino,raspberrypi" />
 </p>
 
 | Domain | Details |
