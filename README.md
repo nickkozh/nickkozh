@@ -1,6 +1,6 @@
 # Nicholas Kozhemiakin
 
-**EECE @ Northeastern University** · Seeking internships in Hardware Engineering, ML for Hardware, and Computer Architecture
+**EECE @ Northeastern University** · Seeking internships in Hardware Engineering, AI Engineering, ML for Hardware, and Computer Architecture
 
 ---
 
@@ -39,9 +39,6 @@ C++ SDK for injecting neural intents directly into OpenXR, Unity, and Unreal run
 **[EEG → ML Output Pipeline](https://github.com/nickkozh/Mindset-EEG-to-ML-Output)** — *Private*  
 Full signal processing and inference pipeline: raw EEG acquisition → preprocessing → feature extraction → PyTorch model → classified output. Runs on Jetson Orin Nano for edge inference.
 
-**[Computer Architecture Project](https://github.com/nickkozh/comp_fund_project)**  
-Digital logic and processor design work from ECE coursework.
-
 ---
 
 ### Stats
@@ -55,5 +52,4 @@ Digital logic and processor design work from ECE coursework.
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/nicholas-kozhemiakin/)
-- [Mindset Technologies](https://github.com/Mindset-Technologies)
 - [mindsettech.ai](https://mindsettech.ai)
