@@ -45,9 +45,6 @@ Distributed home-compute marketplace for sharing GPU resources across a private 
 **[OpenClaw Admin Dashboard](https://github.com/nickkozh/openclaw-dashboard)** — *Private*  
 Local-first admin console for managing LLM bot deployments. Next.js + Prisma/SQLite, Tailscale-accessible, with RBAC (owner/admin/operator/viewer), full audit log, config snapshot/rollback, bot cloning, and multi-bot sequential workflow execution.
 
-**[Computer Architecture Project](https://github.com/nickkozh/comp_fund_project)**  
-Digital logic and processor design work from ECE coursework.
-
 ---
 
 ### Stats
