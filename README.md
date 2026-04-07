@@ -41,14 +41,6 @@ Full signal processing and inference pipeline: raw EEG acquisition → preproces
 
 ---
 
-### Stats
-
-<p align="center">
-  <img src="github-metrics.svg" />
-</p>
-
----
-
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/nicholas-kozhemiakin/)
