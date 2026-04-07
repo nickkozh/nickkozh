@@ -8,7 +8,7 @@
 
 I build end-to-end systems that cross hardware and software. My work ranges from custom EEG acquisition boards to real-time ML inference pipelines. Most of my work lives at the intersection of embedded systems, signal processing, and applied machine learning.
 
-Currently the founder and lead engineer at **[Mindset Technologies]**, building a BCI platform that turns raw EEG into structured, usable output for spatial computing applications.
+Currently the founder and lead engineer at **[Mindset Technologies](https://github.com/Mindset-Technologies)**, building a BCI platform that turns raw EEG into structured, usable output for spatial computing applications.
 
 ---
 
@@ -39,9 +39,36 @@ C++ SDK for injecting neural intents directly into OpenXR, Unity, and Unreal run
 **[EEG → ML Output Pipeline](https://github.com/nickkozh/Mindset-EEG-to-ML-Output)** — *Private*  
 Full signal processing and inference pipeline: raw EEG acquisition → preprocessing → feature extraction → PyTorch model → classified output. Runs on Jetson Orin Nano for edge inference.
 
+**[Compute Mesh](https://github.com/nickkozh/compute-mesh-beta)** — *Private*  
+Distributed home-compute marketplace for sharing GPU resources across a private Tailscale overlay. Python (FastAPI) coordinator + worker system with credit economics, job queuing, model allowlist enforcement, and native desktop apps (Swift/macOS, Tauri/cross-platform). Cluster mode supports multi-node placement with RTT-aware scheduling.
+
+**[OpenClaw Admin Dashboard](https://github.com/nickkozh/openclaw-dashboard)** — *Private*  
+Local-first admin console for managing LLM bot deployments. Next.js + Prisma/SQLite, Tailscale-accessible, with RBAC (owner/admin/operator/viewer), full audit log, config snapshot/rollback, bot cloning, and multi-bot sequential workflow execution.
+
+**[Computer Architecture Project](https://github.com/nickkozh/comp_fund_project)**  
+Digital logic and processor design work from ECE coursework.
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nickkozh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickkozh&layout=compact&theme=dark&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nickkozh&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" />
+</p>
+
 ---
 
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/nicholas-kozhemiakin/)
+- [Mindset Technologies](https://github.com/Mindset-Technologies)
 - [mindsettech.ai](https://mindsettech.ai)
