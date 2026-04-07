@@ -1,6 +1,6 @@
 # Nicholas Kozhemiakin
 
-**EECE @ Northeastern University** · Seeking internships in Hardware Engineering, AI Engineering, ML for Hardware, and Computer Architecture
+**ECE @ Northeastern University** · Seeking internships in Hardware Engineering, AI Engineering, ML for Hardware, and Computer Architecture
 
 ---
 
@@ -70,5 +70,4 @@ Digital logic and processor design work from ECE coursework.
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/nicholas-kozhemiakin/)
-- [Mindset Technologies](https://github.com/Mindset-Technologies)
 - [mindsettech.ai](https://mindsettech.ai)
