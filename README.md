@@ -1,14 +1,14 @@
 # Nicholas Kozhemiakin
 
-**ECE @ Northeastern University** · Seeking internships in Hardware Engineering, ML for Hardware, and Computer Architecture
+**EECE @ Northeastern University** · Seeking internships in Hardware Engineering, ML for Hardware, and Computer Architecture
 
 ---
 
 ### About
 
-I build end-to-end systems that cross hardware and software — from custom EEG acquisition boards to real-time ML inference pipelines. Most of my work lives at the intersection of embedded systems, signal processing, and applied machine learning.
+I build end-to-end systems that cross hardware and software. My work ranges from custom EEG acquisition boards to real-time ML inference pipelines. Most of my work lives at the intersection of embedded systems, signal processing, and applied machine learning.
 
-Currently the founder and lead engineer at **[Mindset Technologies](https://github.com/Mindset-Technologies)**, building a BCI platform that turns raw EEG into structured, usable output for spatial computing applications.
+Currently the founder and lead engineer at **[Mindset Technologies]**, building a BCI platform that turns raw EEG into structured, usable output for spatial computing applications.
 
 ---
 
